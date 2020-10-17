@@ -10,11 +10,7 @@ Project aims to create TODO Application with React Native.
 
 ## Expected Outcome
 
-![Project 000 Snapshot](./images/001.png)
 
-![Project 000 Snapshot](./images/002.png)
-
-![Project 000 Snapshot](./images/003.png)
 
 ### At the end of the project, following topics are to be covered;
 
